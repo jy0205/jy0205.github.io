@@ -126,9 +126,3 @@ My research interests cover visual grounding, multi-modal learning, and generati
 
 # 🏫 Professional Services
 - Reviewer for CVPR 2023, CVPR 2024, ICCV 2023, ECCV 2024.
-
----
-<center><sub>Visitor distribution </sub></center>
-<center>
-<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=b8d8f4&w=500&t=tt&d=dr5fouikEOHm7uz2Fbad0ouZVrWc6GgXdbKOPN3VGEs&co=ffffff&ct=110606&cmo=e073d6&cmn=53edcf"></script>
-</center>
