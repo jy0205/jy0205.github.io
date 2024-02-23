@@ -28,6 +28,7 @@ My research interests cover visual grounding, multi-modal learning, and generati
 - *2023.03*: One paper is accepted at CVPR 2023!
 - *2022.09*: One paper is accepted at NeurIPS 2022 as a spotlight presentation!
 - *2022.03*: One paper is accepted at CVPR 2022!
+- *2021.04*: One paper is accepted at TMM 2021!
   
 
 # 📝 Publications 
