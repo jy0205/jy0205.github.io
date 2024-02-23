@@ -73,7 +73,7 @@ My research interests cover visual grounding, multi-modal learning, and generati
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022</div><img src='images/video_grounding.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2022 Spotlight</div><img src='images/video_grounding.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [**NeurIPS 2022 Spotlight**] [Embracing Consistency: A One-Stage Approach for Spatio-Temporal Video Grounding](https://arxiv.org/abs/2209.13306)
