@@ -40,10 +40,26 @@ My research interests cover visual grounding, multi-modal learning, and generati
 
 **Yang Jin**, Zhicheng Sun, Kun Xu, Kun Xu, Liwei Chen, Hao Jiang, Quzhe Huang, Chengru Song, Yuliang Liu, Di Zhang, Yang Song, Kun Gai, Yadong Mu
 
-Preprint, 2024
+**Preprint, 2024**
 
 [**[Paper]**](https://arxiv.org/pdf/2402.03161.pdf) [**[Project]**](https://video-lavit.github.io) [**[Code]**](https://github.com/jy0205/LaVIT)
 - We present a multimodal LLM capable of both comprehending and generating videos, based on an efficient decomposed video representation.
+</div>
+</div>
+
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2024</div><img src='images/LaVIT_fig.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Unified Language-Vision Pretraining in LLM with Dynamic Discrete Visual Tokenization](https://arxiv.org/abs/2309.04669)
+
+**Yang Jin**, Kun Xu, Kun Xu, Liwei Chen, Chao Liao, Jianchao Tan, Quzhe Huang, Bin Chen, Chenyi Lei, An Liu, Chengru Song, Xiaoqiang Lei, Di Zhang, Wenwu Ou, Kun Gai, Yadong Mu
+
+**ICLR, 2024**
+
+[**[Paper]**](https://arxiv.org/pdf/2309.04669.pdf) [**[Code]**](https://github.com/jy0205/LaVIT)
+- We present an effective dynamic visual tokenizer that represents an image as the foreign language in LLM, which supports both multi-modal understanding and generation.
+- 
 </div>
 </div>
 
