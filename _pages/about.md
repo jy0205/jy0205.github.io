@@ -100,6 +100,11 @@ My research interests cover visual grounding, multi-modal learning, and generati
 </div>
 </div>
 
+- [Zero-Shot Video Event Detection with High-Order Semantic Concept Discovery and Matching](https://ieeexplore.ieee.org/document/9405453), **Yang Jin**, Wenhao Jiang, Yi Yang, Yadong Mu, **TMM 2021**
+
+- [Video Action Segmentation via Contextually Refined Temporal Keypoints](https://openaccess.thecvf.com/content/ICCV2023/papers/Jiang_Video_Action_Segmentation_via_Contextually_Refined_Temporal_Keypoints_ICCV_2023_paper.pdf), Borui Jiang, **Yang Jin**, Zhentao Tan, Yadong Mu, **ICCV 2023**
+  
+- [Beyond Short-Term Snippet: Video Relation Detection with Spatio-Temporal Global Context](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Beyond_Short-Term_Snippet_Video_Relation_Detection_With_Spatio-Temporal_Global_Context_CVPR_2020_paper.pdf), Chenchen Liu, **Yang Jin**, Kehan Xu, Guoqiang Gong, Yadong Mu, **CVPR 2020**
 
 # 🎖 Honors and Awards
 - *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
