@@ -115,8 +115,8 @@ My research interests cover visual grounding, multi-modal learning, and generati
 
 
 # 📖 Educations
-- *2020.09 - 2025.07 (expected)*, Ph.D. Student, Academy for Advanced Interdisciplinary Studies, Peking University.
-- *2016.09 - 2020.07*,            Undergraduate Student, School of Computer Science and Engineering (SCSE), Beihang University. 
+- *2020.09 - 2025.07 (expected)*, Ph.D. Student, [Academy for Advanced Interdisciplinary Studies](http://www.aais.pku.edu.cn/), Peking University.
+- *2016.09 - 2020.07*,            Undergraduate Student, [School of Computer Science and Engineering](https://scse.buaa.edu.cn/English/Home.htm) (SCSE), Beihang University. 
 
 
 # 💻 Internships
