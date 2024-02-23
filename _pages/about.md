@@ -19,7 +19,7 @@ redirect_from:
 
 I am Yang Jin (金阳), a Ph.D. student at Wangxuan Institute of Computer Technology (WICT) in Peking University, advised by [Prof. Yadong Mu](http://www.muyadong.com/). Before that, I obtained my B.S. degree in Computer Science and Engineering from Beihang University. I have been a research intern at [ByteDance](https://www.bytedance.com/en/) and [Kuaishou Technology](https://www.kuaishou.com/en/).
 
-My research interests cover visual grounding, multi-modal learning, and generative models. Recently, my work mainly focus on developing effective multi-modal large language models. I have published several papers and been reviewer at many conferences such as CVPR, ECCV, ICCV, and NeurIPS. If you are interested in my research, feel free to contact me through e-mail.
+My research interests cover visual grounding, multi-modal learning, and generative models. Recently, my work mainly focus on developing effective multi-modal large language models. I have published several papers and been reviewer at many conferences such as CVPR, ECCV, ICCV. If you are interested in my research, feel free to contact me through e-mail.
 
 
 # 🔥 News
@@ -106,17 +106,29 @@ My research interests cover visual grounding, multi-modal learning, and generati
   
 - [Beyond Short-Term Snippet: Video Relation Detection with Spatio-Temporal Global Context](https://openaccess.thecvf.com/content_CVPR_2020/papers/Liu_Beyond_Short-Term_Snippet_Video_Relation_Detection_With_Spatio-Temporal_Global_Context_CVPR_2020_paper.pdf), Chenchen Liu, **Yang Jin**, Kehan Xu, Guoqiang Gong, Yadong Mu, **CVPR 2020**
 
+
 # 🎖 Honors and Awards
-- *2021.10* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- Peking University President's Scholarship
+- Wang Xuan Scholarship
+- Peking University Study Excellence Award
+- Peking University Excellent Research Award
+
 
 # 📖 Educations
-- *2019.06 - 2022.04 (now)*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2020.09 - 2025.07 (expected)*, Ph.D. Student, Academy for Advanced Interdisciplinary Studies, Peking University.
+- *2016.09 - 2020.07*,            Undergraduate Student, School of Computer Science and Engineering (SCSE), Beihang University. 
 
-# 💬 Invited Talks
-- *2021.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/)
 
 # 💻 Internships
-- *2019.05 - 2020.02*, [Lorem](https://github.com/), China.
+- *2023.07 - now*,     Content Understanding and Generation Group, Kuaishou Technology, China.
+- *2022.04 - 2023.06*, Content Understanding Group, ByteDance, China.
+
+
+# 🏫 Professional Services
+- Reviewer for CVPR 2023, CVPR 2024, ICCV 2023, ECCV 2024.
+
+---
+<center><sub>Visitor distribution </sub></center>
+<center>
+<script type="text/javascript" id="clustrmaps" src="//cdn.clustrmaps.com/map_v2.js?cl=b8d8f4&w=500&t=tt&d=dr5fouikEOHm7uz2Fbad0ouZVrWc6GgXdbKOPN3VGEs&co=ffffff&ct=110606&cmo=e073d6&cmn=53edcf"></script>
+</center>
