@@ -23,8 +23,12 @@ My research interests cover visual grounding, multi-modal learning, and generati
 
 
 # 🔥 News
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
-- *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet. 
+- *2024.01*: One paper is accepted at ICLR 2024!
+- *2023.07*: One paper is accepted at ICCV 2023!
+- *2023.03*: One paper is accepted at CVPR 2023!
+- *2022.09*: One paper is accepted at NeurIPS 2022 as a spotlight presentation!
+- *2022.03*: One paper is accepted at CVPR 2022!
+  
 
 # 📝 Publications 
 
