@@ -54,7 +54,7 @@ My research interests cover visual grounding, multi-modal learning, and generati
 **Yang Jin**, Kun Xu, Kun Xu, Liwei Chen, Chao Liao, Jianchao Tan, Quzhe Huang, Bin Chen, Chenyi Lei, An Liu, Chengru Song, Xiaoqiang Lei, Di Zhang, Wenwu Ou, Kun Gai, Yadong Mu
 
 [**[Paper]**](https://arxiv.org/pdf/2309.04669.pdf) [**[Code]**](https://github.com/jy0205/LaVIT)
-- We present an effective dynamic visual tokenizer that represents an image as the foreign language in LLM, which supports both multi-modal understanding and generation.
+- We present an effective dynamic discrete visual tokenizer that represents an image as the foreign language in Large Language Models, which supports both multi-modal understanding and generation.
   
 </div>
 </div>
@@ -81,7 +81,7 @@ My research interests cover visual grounding, multi-modal learning, and generati
 **Yang Jin**, Yongzhi Li, Zehuan Yuan, Yadong Mu
 
 [**[Paper]**](https://arxiv.org/pdf/2209.13306.pdf) [**[Code]**](https://github.com/jy0205/STCAT)
-- We propose STCAT, a new one-stage spatio-temporal video grounding method, which achieved state-of-the-art performance on VidSTG and HC-STVG benchmarks. 
+- We propose STCAT, a new one-stage spatio-temporal video grounding model that enjoys more consistent cross-modal feature alignment and tube prediction. It also achieved state-of-the-art performance on VidSTG and HC-STVG benchmarks. 
   
 </div>
 </div>
