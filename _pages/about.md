@@ -23,6 +23,7 @@ My research interests cover visual grounding, multi-modal learning, and generati
 
 
 # 🔥 News
+- *2024.05*: One paper is accepted at ICML 2024!
 - *2024.01*: One paper is accepted at ICLR 2024!
 - *2023.07*: One paper is accepted at ICCV 2023!
 - *2023.03*: One paper is accepted at CVPR 2023!
