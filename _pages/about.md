@@ -23,7 +23,7 @@ My research interests cover visual grounding, multi-modal learning, and generati
 
 
 # 🔥 News
-- *2024.05*: One paper is accepted at ICML 2024!
+- *2024.05*: One paper is accepted at ICML 2024 as an Oral presentation!
 - *2024.01*: One paper is accepted at ICLR 2024!
 - *2023.07*: One paper is accepted at ICCV 2023!
 - *2023.03*: One paper is accepted at CVPR 2023!
@@ -37,7 +37,7 @@ My research interests cover visual grounding, multi-modal learning, and generati
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICML 2024</div><img src='images/video_lavit.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**ICML 2024**] [Video-LaVIT: Unified Video-Language Pre-training with Decoupled Visual-Motional Tokenization](https://arxiv.org/abs/2402.03161)
+[**ICML 2024 Oral**] [Video-LaVIT: Unified Video-Language Pre-training with Decoupled Visual-Motional Tokenization](https://arxiv.org/abs/2402.03161)
 
 **Yang Jin**, Zhicheng Sun, Kun Xu, Kun Xu, Liwei Chen, Hao Jiang, Quzhe Huang, Chengru Song, Yuliang Liu, Di Zhang, Yang Song, Kun Gai, Yadong Mu
 
