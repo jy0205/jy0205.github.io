@@ -19,7 +19,7 @@ redirect_from:
 
 I am Yang Jin (金阳), a Ph.D. student at Wangxuan Institute of Computer Technology (WICT) in Peking University, advised by [Prof. Yadong Mu](http://www.muyadong.com/). Before that, I obtained my B.S. degree in Computer Science and Engineering from Beihang University. I have been a research intern at [ByteDance](https://www.bytedance.com/en/) and [Kuaishou Technology](https://www.kuaishou.com/en/).
 
-My research interests cover (1) **Multi-modal Large Language Model** and large-scale vision-language pre-training (2) **Generative Models**, including image, video, and personalized generation with both diffusion and autoregressive models, (3) **Video Understanding**, covers both recognition and localization tasks. I have published several papers and been reviewer at many conferences such as CVPR, ECCV, ICCV. If you are interested in my research, feel free to contact me through e-mail.
+My research interests cover (1) **Multi-modal Large Language Model** and large-scale vision-language pre-training (2) **AIGC** including image, video, and personalized generation with both diffusion and autoregressive models (3) **Video Understanding** covers both recognition and localization tasks. I have published several papers and been reviewers at many conferences such as CVPR, ECCV, ICCV. If you are interested in my research, feel free to contact me through e-mail.
 
 
 # 🔥 News
