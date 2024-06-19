@@ -61,6 +61,20 @@ My research interests cover (1) **Multi-modal Large Language Model** and large-s
 </div>
 
 
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/RecctifID.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**Arxiv 2024**] [RectifID: Personalizing Rectified Flow with Anchored Classifier Guidance](https://arxiv.org/abs/2405.14677)
+
+Zhicheng Sun, Zhenhao Yang, **Yang Jin**, Haozhe Chi, Kun Xu, Kun Xu, Liwei Chen, Hao Jiang, Di Zhang, Yang Song, Kun Gai, Yadong Mu
+
+[**[Paper]**](https://arxiv.org/pdf/2405.14677) [**[Code]**](https://github.com/feifeiobama/RectifID)
+- We introduce a training-free approach to personalizing rectified flow, based on a fixed-point formulation of classifier guidance.
+  
+</div>
+</div>
+
+
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">CVPR 2023</div><img src='images/ECLIP.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
@@ -101,10 +115,10 @@ My research interests cover (1) **Multi-modal Large Language Model** and large-s
 </div>
 </div>
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2021</div><img src='images/MLN.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2021</div><img src='images/TMM.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**CVPR 2022**] [Zero-Shot Video Event Detection with High-Order Semantic Concept Discovery and Matching](https://ieeexplore.ieee.org/abstract/document/9405453/)
+[**TMM 2021**] [Zero-Shot Video Event Detection with High-Order Semantic Concept Discovery and Matching](https://ieeexplore.ieee.org/abstract/document/9405453/)
 
 **Yang Jin**, Wenhao Jiang, Yi Yang, Yadong Mu
 
@@ -114,7 +128,6 @@ My research interests cover (1) **Multi-modal Large Language Model** and large-s
 </div>
 </div>
 
-- [Zero-Shot Video Event Detection with High-Order Semantic Concept Discovery and Matching](https://ieeexplore.ieee.org/document/9405453), **Yang Jin**, Wenhao Jiang, Yi Yang, Yadong Mu, **TMM 2021**
 
 - [Video Action Segmentation via Contextually Refined Temporal Keypoints](https://openaccess.thecvf.com/content/ICCV2023/papers/Jiang_Video_Action_Segmentation_via_Contextually_Refined_Temporal_Keypoints_ICCV_2023_paper.pdf), Borui Jiang, **Yang Jin**, Zhentao Tan, Yadong Mu, **ICCV 2023**
   
