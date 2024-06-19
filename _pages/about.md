@@ -19,7 +19,7 @@ redirect_from:
 
 I am Yang Jin (金阳), a Ph.D. student at Wangxuan Institute of Computer Technology (WICT) in Peking University, advised by [Prof. Yadong Mu](http://www.muyadong.com/). Before that, I obtained my B.S. degree in Computer Science and Engineering from Beihang University. I have been a research intern at [ByteDance](https://www.bytedance.com/en/) and [Kuaishou Technology](https://www.kuaishou.com/en/).
 
-My research interests cover visual grounding, multi-modal learning, and generative models. Recently, my work mainly focus on developing effective multi-modal large language models. I have published several papers and been reviewer at many conferences such as CVPR, ECCV, ICCV. If you are interested in my research, feel free to contact me through e-mail.
+My research interests cover (1) **Multi-modal Large Language Model** and large-scale vision-language pre-training** (2) **Generative Models**, including image, video, and personalized generation with both diffusion and autoregressive models. (3) **Video Understanding**, covers both recognition and localization tasks. I have published several papers and been reviewer at many conferences such as CVPR, ECCV, ICCV. If you are interested in my research, feel free to contact me through e-mail.
 
 
 # 🔥 News
@@ -97,6 +97,19 @@ My research interests cover visual grounding, multi-modal learning, and generati
 
 [**[Paper]**](https://openaccess.thecvf.com/content/CVPR2022/papers/Jin_Complex_Video_Action_Reasoning_via_Learnable_Markov_Logic_Network_CVPR_2022_paper.pdf)
 - We devise an video action reasoning framework that performs Markov Logic Network (MLN) based probabilistic logical inference. The proposed framework enjoys remarkable interpretability through the learned logical rules.
+  
+</div>
+</div>
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">TMM 2021</div><img src='images/MLN.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[**CVPR 2022**] [Zero-Shot Video Event Detection with High-Order Semantic Concept Discovery and Matching](https://ieeexplore.ieee.org/abstract/document/9405453/)
+
+**Yang Jin**, Wenhao Jiang, Yi Yang, Yadong Mu
+
+[**[Paper]**](https://ieeexplore.ieee.org/abstract/document/9405453/)
+- We design an effective zero-shot video event retrieval framework based on the utilization of high-order concepts (such as subject-predicate-object triplets or adjective-object). The constructed high-order concept library and proposed query-expanding scheme significantly improved the perfromance.
   
 </div>
 </div>
