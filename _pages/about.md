@@ -23,6 +23,7 @@ My research interests cover (1) **Multi-modal Large Language Model** and large-s
 
 
 # 🔥 News
+- *2024.09*: One paper is accepted at NeurIPS 2024!
 - *2024.07*: One paper is accepted at ECCV 2024!
 - *2024.05*: One paper is accepted at ICML 2024 as an Oral presentation!
 - *2024.01*: One paper is accepted at ICLR 2024!
@@ -74,10 +75,10 @@ My research interests cover (1) **Multi-modal Large Language Model** and large-s
 </div>
 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/RectifID.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2024</div><img src='images/RectifID.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Arxiv 2024**] [RectifID: Personalizing Rectified Flow with Anchored Classifier Guidance](https://arxiv.org/abs/2405.14677)
+[**NeurIPS 2024**] [RectifID: Personalizing Rectified Flow with Anchored Classifier Guidance](https://arxiv.org/abs/2405.14677)
 
 Zhicheng Sun, Zhenhao Yang, **Yang Jin**, Haozhe Chi, Kun Xu, Kun Xu, Liwei Chen, Hao Jiang, Di Zhang, Yang Song, Kun Gai, Yadong Mu
 
