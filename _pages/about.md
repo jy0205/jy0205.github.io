@@ -23,6 +23,7 @@ My research interests cover (1) **Multi-modal Large Language Model** and large-s
 
 
 # 🔥 News
+- *2025.01*: One paper is accepted at ICLR 2025!
 - *2024.09*: One paper is accepted at NeurIPS 2024!
 - *2024.07*: One paper is accepted at ECCV 2024!
 - *2024.05*: One paper is accepted at ICML 2024 as an Oral presentation!
@@ -36,10 +37,10 @@ My research interests cover (1) **Multi-modal Large Language Model** and large-s
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">Arxiv 2024</div><img src='images/pyramid_flow.jpg' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICLR 2025</div><img src='images/pyramid_flow.jpg' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[**Arxiv 2024**] [Pyramidal Flow Matching for Efficient Video Generative Modeling](https://arxiv.org/abs/2410.05954)
+[**ICLR 2025**] [Pyramidal Flow Matching for Efficient Video Generative Modeling](https://arxiv.org/abs/2410.05954)
 
 **Yang Jin**, Zhicheng Sun, Ningyuan Li, Kun Xu, Kun Xu, Hao Jiang, Nan Zhuang, Quzhe Huang, Yang Song, Yadong Mu, Zhouchen Lin
 
